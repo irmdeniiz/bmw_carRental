@@ -1,8 +1,12 @@
+#carRental
+
+<h1>Bu projede TypeScript ve React kullanılarak bir araç kiralama uygulaması oluşturuldu. Proje çeşitli özellikleri ile dikkat çekiyor. Uygulamada React router dom, Framer motion, React select ve Tailwind CSS kütüphaneleri kullanıldı.</h1>
+
+
 # Teknolojiler
 
 - react
 - typescript
-
 - react-router-dom
 - react-select
 - tailwind
